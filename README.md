@@ -6,7 +6,7 @@ url: https://hotdog-or-sandwich.herokuapp.com/
 
 Hotdog or Sandwich uses:
 - Ruby, Ruby on Rails
-- Javascript
 - HTML5
 - CSS
+- Postgresql
 
